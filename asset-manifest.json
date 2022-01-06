@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/faceapp/static/css/main.43f325fc.chunk.css",
+    "main.js": "/faceapp/static/js/main.eb7050ca.chunk.js",
+    "main.js.map": "/faceapp/static/js/main.eb7050ca.chunk.js.map",
+    "runtime-main.js": "/faceapp/static/js/runtime-main.5497501e.js",
+    "runtime-main.js.map": "/faceapp/static/js/runtime-main.5497501e.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/faceapp/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.87df0a00.chunk.js": "/faceapp/static/js/2.87df0a00.chunk.js",
+    "static/js/2.87df0a00.chunk.js.map": "/faceapp/static/js/2.87df0a00.chunk.js.map",
+    "static/js/3.ff469d5d.chunk.js": "/faceapp/static/js/3.ff469d5d.chunk.js",
+    "static/js/3.ff469d5d.chunk.js.map": "/faceapp/static/js/3.ff469d5d.chunk.js.map",
+    "index.html": "/faceapp/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/faceapp/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.43f325fc.chunk.css.map": "/faceapp/static/css/main.43f325fc.chunk.css.map",
+    "static/js/2.87df0a00.chunk.js.LICENSE.txt": "/faceapp/static/js/2.87df0a00.chunk.js.LICENSE.txt",
+    "static/media/science.d2549747.png": "/faceapp/static/media/science.d2549747.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5497501e.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.87df0a00.chunk.js",
+    "static/css/main.43f325fc.chunk.css",
+    "static/js/main.eb7050ca.chunk.js"
+  ]
+}
